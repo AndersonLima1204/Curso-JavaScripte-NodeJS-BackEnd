@@ -56,3 +56,7 @@ Apresentar os dados
 - [x] criar, passar argumrnto
 - [x] executar
 - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
